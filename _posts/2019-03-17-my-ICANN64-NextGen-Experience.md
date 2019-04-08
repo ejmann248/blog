@@ -5,9 +5,6 @@ description: "A brief post discussing what I learnt and experienced during my ti
 comments: false
 keywords: "ICANN, Internet Governance"
 ---
-| ![NextGenGroup.jpg](https://media.licdn.com/dms/image/C5112AQF13nW4giTIpQ/article-cover_image-shrink_720_1280/0?e=1560384000&v=beta&t=oBjGouA3zyHXz_3yKuCHHNqZM1YqNBA9-WIjwTZb3ck) | 
-|:--:| 
-| The fantastic NextGen team. Credit: ICANN |
 At the beginning of March, I had the great opportunity to attend the ICANN64 Community Forum Meeting in Kobe, Japan as a [NextGen candidate](https://www.icann.org/news/announcement-2018-11-09-en) from Australia. The NextGen program aims to integrate newcomers to the ICANN ecosystem by funding and involving them in one of three annual ICANN meetings held throughout the year in various regions. For this meeting, the NextGen program had me presenting on Indonesian Data Protection Laws, attending every session and workshop I could get my hands on, and networking with some of the foremost minds in internet governance.
 
 For those unaware of what ICANN does (such as me before I was chosen as part of the NextGen Program), ICANN is responsible for the maintenance of the [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) (Domain Name System). This covers the translation from IP addresses to domain names, the domain name system itself and other peripheral systems. It sounds like a narrow focus, and in some respects it is, but it is a global system that connects over four billion users and as such is crucial to the governance of the internet.
@@ -42,7 +39,7 @@ It’s important to point out that this relates squarely with the GDPR currently
 
 I raised this issue with multiple people throughout the meeting, including a couple of ICANN board members, and got a few encouraging responses. Basically, the focus on the GDPR is one of necessity as it is an imminent threat to WHOIS, but there is a recognised need to develop a comprehensive framework to deal with privacy laws throughout the world as they arise. There hasn’t been much work on this thus far, but it’s heartening that there is some recognition of the issue at the highest level.
 
-<img src="..\assets\images\vendingMachine.jpg" height="200" />
+<img src="https://raw.githubusercontent.com/ejmann248/blog/master/assets/images/vendingMachine.jpg" height="200" />
 
 ## General Internet Governance
 
