@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "Elliott"
 title_right   : "Mann" # default: ""
-description   : "On law, technology, dan antara lain"
+description   : "On law, technology, and things in between"
 keywords      : "law, technology, indonesia, philosophy, university"
 url           : https://ejmann248.github.io/blog/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank

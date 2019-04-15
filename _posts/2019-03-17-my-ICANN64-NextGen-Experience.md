@@ -39,8 +39,6 @@ It’s important to point out that this relates squarely with the GDPR currently
 
 I raised this issue with multiple people throughout the meeting, including a couple of ICANN board members, and got a few encouraging responses. Basically, the focus on the GDPR is one of necessity as it is an imminent threat to WHOIS, but there is a recognised need to develop a comprehensive framework to deal with privacy laws throughout the world as they arise. There hasn’t been much work on this thus far, but it’s heartening that there is some recognition of the issue at the highest level.
 
-<img src="https://raw.githubusercontent.com/ejmann248/blog/master/assets/images/vendingMachine.jpg" height="200" />
-
 ## General Internet Governance
 
 If anything, the ICANN meeting opened my eyes to the world of Internet Governance. Alongside ICANN, I heard from and met with people from the [Internet Governance Forum](https://intgovforum.org/multilingual/), the [Asia-Pacific IGF](https://www.aprigf.asia/) and the [Asian Internet Governance Academy](https://www.facebook.com/ap.ig.academy/). I’m keen to get involved with all of these programs and it was particularly interesting to hear that the [Australian Internet Governance Forum](https://www.igf.org.au/) hasn’t been running for the last few years and I’d be interested in seeing what I can do on a local level to advance the awareness of internet governance in Australia and within Swinburne.
