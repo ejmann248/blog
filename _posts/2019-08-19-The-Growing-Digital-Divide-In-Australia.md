@@ -5,6 +5,8 @@ description: "Written for the Internet Society IGF Youth Ambassador program."
 comments: false
 keywords: "IGF, Internet Governance, Internet Access"
 ---
+*I wrote this essay as part of my application for the Internet Society IGF Youth Ambassadors program. The final part of the application process was an eight page essay on a topic we had discussed during the course.*
+
 # The Growing Digital Divide in Australia
 
 ## Introduction
