@@ -1,0 +1,85 @@
+---
+layout: post
+title: "Responses to ISOC IGF Discussion Posts - 21 July"
+description: "My thoughts on some of the discussion posts on the 21st of July"
+comments: false
+keywords: "IGF, Internet Governance"
+---
+*As part of the ISOC IGF Youth Ambassador program, we had to be active contributors to a discussion forum where Ambassador candidates discussed internet issues. Here are some of my posts - sorry for not providing context!*
+**Response – trusting content/fake news**
+
+Hi XXX, I really enjoyed reading your insight into the difficulties in trusting content, especially where much of that fake content can come from governments. I agree that more needs to be done to combat internet trolls, and you make a good point that greater penalties for trolling may not do much good since the bodies in charge of enforcing those penalties are also those utilizing the trolls.
+
+In general, I don&#39;t see this as an internet specific issue as much as a general society issue. While for sure, people need to be more educated about the internet and its benefits and risks, I think it&#39;s more important that young people in particular are equipped with the &#39;soft&#39; skills to become more discerning of information not just on the internet, but in the wider world.
+
+I&#39;m a big, big believer of teaching more [critical thinking skills](https://materchristi.libguides.com/c.php?g=311427&amp;p=2680067) and philosophy in schools. This doesn&#39;t need to be too heavy, and in terms of classifying information I would like to see more teaching of [logical fallacies](https://yourlogicalfallacyis.com/) and how writers try to influence emotions and present viewpoints. In Australia, we&#39;ve seen some success with [raising the profile of philosophy](https://www.abc.net.au/life/how-philosophy-can-help-solve-lifes-big-problems/10888806) in schools, and it&#39;s important to remember that lack of trust in media sources is not an internet isolated problem. In fact, I would posit that one of the most effective ways of dealing with those government-enabled trolls may be to teach critical thinking more widely.
+
+As a result, while internet education would certainly be a welcome tool, I feel that we need to take a broader approach to this problem, and deal with it from a philosophical basis in educating people about how to evaluate arguments and realise how they are being influenced by media – both on and off the Internet.
+
+**Response – remedies for data breaches**
+
+Hi XXX, thanks for posting on this super-important topic. I totally agree, there is currently a massive power imbalance between those who control and are responsible for our data, and the data subjects themselves.
+
+As to the Facebook/FTC matter, it&#39;s a tough one as I do feel the FTC fine undervalues the harm caused by the breach; but at the same time, I recognise that the FTC only has scope to consider harm within the United States. I&#39;ll leave aside any question of what Europe will do, but certainly in Australia, our Office of the Australian Information Commission [opened an investigation into the matter](https://www.oaic.gov.au/media-and-speeches/statements/facebook-and-cambridge-analytica), and has recently suggested that [the investigation is coming to an end](https://www.oaic.gov.au/media-and-speeches/speeches/trust-in-the-data-economy-the-role-of-stakeholders). Our government takes the enforcement of our Privacy Act pretty seriously, [and has indicated that any fine will be substantial](https://www.attorneygeneral.gov.au/Media/Pages/Tougher-penalties-to-keep-australians-safe-online-19.aspx). Of course, Australia&#39;s not a massive market, so any fine will likely be in the millions of dollars – as opposed to billions in the United States. So, I wouldn&#39;t despair about the lack of consequence for Facebook yet, as I&#39;m sure other countries will come out of the woodworks soon and announce similar fines.
+
+But of course, in line with your other point – this is enforcement by a government body, as opposed to a remedy for the data subjects. As it stands in Australia (apologies for all the non-lawyers out there for the upcoming legal jargon), there is no common law or statutory right to sue for breach of privacy. Under common law, the tort of &#39;invasion of privacy&#39; [which developed in the UK over the 20](https://www.technollama.co.uk/uk-court-of-appeals-confirms-tort-of-privacy-in-google-v-vidal-hall)[th](https://www.technollama.co.uk/uk-court-of-appeals-confirms-tort-of-privacy-in-google-v-vidal-hall)[Century](https://www.technollama.co.uk/uk-court-of-appeals-confirms-tort-of-privacy-in-google-v-vidal-hall) has not been reflected in Australia with [our High Court in 2001](http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/2001/63.html) recognising that while private law should do more to protect privacy, this does not justify the creation of a brand new tort. As a result, short of our High Court deciding otherwise, under common law an individual cannot bring a claim for invasion of privacy.
+
+Under statute, enforcement and restitution actions for privacy breaches are limited to the Office of the Australian Information Commissioner. This is reflected in [section 80U of our Privacy Act](http://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s80u.html), which solely authorises the Commissioner as an applicant in relation to civil proceedings under the Act.
+
+Now, is this ideal? No, of course not. The Commissioner is renowned for being slow and deliberate in bringing action for data breaches and shares a common failing amongst Australian regulators in that they&#39;d rather enter into enforceable undertakings than take a company to court. This all adds up to make enforcement actions in court pretty rare and consequently data subjects don&#39;t often ger the remedies they seek.
+
+As a result, in Australia at least, there isn&#39;t that many legal options available to data subjects to seek remedies outside of our privacy regulator.
+
+**Response – issues in developing countries vs developed countries**
+
+Hi XXX, thanks for sharing on this really important distinction in Internet Governance. I&#39;m writing this from Australia, so I&#39;m obviously coming from a very privileged position where we have pretty good access to the internet – [but unfortunately not as good as many would like](https://www.abc.net.au/news/2015-05-04/australia-lagging-behind-in-digital-maturity-report-finds/6442580)!
+
+This level of integration with the internet certainly poses some questions of its own, namely &quot;Once everyone is connected to the internet, what next?&quot; Unfortunately for Australia, the answer to that for our Government seems to be, pass more laws.
+
+See, in Australia, [we have a habit of seeing a problem and passing a law about it](https://www.abc.net.au/lateline/interview-lawyer-bret-walker-sc-the-first/6852010). In recent times, this has been applied to [strawberries](https://twitter.com/ScottMorrisonMP/status/1042280700697706496) and [hate speech on social media](http://www.adnews.com.au/news/the-chilling-unintended-consequences-of-australia-s-new-social-media-laws).
+
+However, and most pertinent to Internet Governance, the biggest controversy has been reserved for an [&#39;anti-encryption&#39; bill](https://techcrunch.com/2018/12/05/australia-rushes-its-dangerous-anti-encryption-bill-into-parliament/) passed last December. This bill has been met with disapproval from our [Law Council](https://www.lawcouncil.asn.au/media/media-releases/unprecedented-and-complex-encryption-access-laws-must-not-be-rushed-nor-politicised) and the [Australian Computer Society](https://ia.acs.org.au/article/2019/encryption-bill--rushed-laws-blasted.html) as it grants the government unprecedented powers to [force companies to install backdoors into their software without notifying users.](https://www.theguardian.com/technology/2018/dec/08/australias-war-on-encryption-the-sweeping-new-powers-rushed-into-law) This clearly harms the trustworthy and decentralised nature of the internet if companies are installing backdoors into their software as the result of a government order, and is a prime example of Australia&#39;s propensity to over-regulate.
+
+Of course, this isn&#39;t an issue exclusively limited to &#39;developed&#39; countries; but I think it is a good example of the sorts of issues that governments consider once the Internet becomes of critical mass to deserve legislative attention.
+
+**Response – linguistics of governance vs government**
+
+Hi XXX, for sure the most interesting part of the Week 1 Readings for me was this insight regarding the linguistics of the word &#39;governance&#39;. I&#39;m from Australia, so English is the only language I know back to front (although I do speak a couple also!).
+
+In my view, &#39;government&#39; refers solely to the group of people who engage in the process of governing the country. You can&#39;t have a &#39;company government&#39;, because that&#39;s just not how the word &#39;government&#39; is used. As a result, it&#39;s used mainly in that limited circumstance.
+
+&#39;Governance&#39; on the other hand, is used much more widely and in a variety of circumstances. &#39;Governance&#39; refers to the process of governing something and isn&#39;t limited to a country in scope. For example, &#39;corporate governance&#39; refers to the process of governing a corporation; in making decisions, deciding strategy and overall direction of the company. In the same manner, &#39;social governance&#39; refers to governing society; and in Australia refers to how we deal with homelessness, the social impacts of climate change and social equality. As a result, &#39;governance&#39; is used in a much broader scope and certainly would be applied to &#39;Internet Governance&#39; without a second thought.
+
+It is interesting though, and we should all reflect on how linguistics does help (or hinder) the development of global policies, particularly when there can be such acute differences in meaning.
+
+**Response – What does the term &quot;Internet Governance&quot; stand for in your country?**
+
+Hi XXX, really interesting to hear that Internet Governance is so government driven in XXX. Does that mean that it can be difficult for civil society and internet users to heave their voices heard?
+
+In Australia, our Government has largely privatised the operation of the internet, subject to some relatively strict regulations. Issues such as data protection &amp; privacy are still guided and enforced by the government, but more internet-focused activities such as [domain names](https://www.auda.org.au/), [ISP regulation](https://www.acma.gov.au/Industry/Internet/Licensing--I-want-to-be-an-ISP), and access to the internet are often undertaken in a mostly private manner. Domain names specifically are handled by [auDA](https://www.auda.org.au/about-auda/) which is a government endorsed body responsible for administering the .au domain space. Much of the public utilities in Australia operate in this manner, whereby at the front line they are privately operated but with a government agency providing ultimate oversight.
+
+As a result, there are still ways for internet users and civil society to get their voices heard by lobbying these bodies for policy changes which don&#39;t need to go through the government. Overall, I feel that the creation of these quasi-private bodies strikes a good balance between a government run system (which has the potential to run into bureaucracy and may lack innovation) and an entirely private system (which may have perverse economic incentives without oversight).
+
+I&#39;d be interested to hear from others from countries where Internet Governance is run in a more private manner, where the government is totally hands-off.
+
+**Response – Fake News (single arbiter around the world)**
+
+Hi XXX, I think this is an admirable solution; and I&#39;d love to see it work.
+
+I&#39;m maybe paranoid, but I don&#39;t like the idea of a single body having the ability to declare at a whim what is fake news and what isn&#39;t. This is informed by what we&#39;re seeing in Singapore where the Government has [granted itself powers to unilaterally declare something &#39;false&#39; and order it to be taken down](https://newnaratif.com/research/singapores-fake-news-bill-the-faq/share/rwznaa.rz/339d54549686fe9d618ddb61c8c4afb2). Now, Singapore has [a troubled relationship with freedom of speech](https://newnaratif.com/research/out-of-bounds-freedom-of-expression-in-singapore-revisited/share/rwznaa.rz/5369153137784ebd12f53bb96fe0774e/), and many journalists fear that [these new powers will be used to crack down on the publication of views which the government does not agree with](https://www.theatlantic.com/international/archive/2019/07/singapore-press-freedom/592039/).
+
+Irregardless of how we pick this international body to deal with fake news, I can&#39;t shake the feeling that there will be some who take the opportunity to crack down on views which they disagree with. I posit that the solution to fake news needs to be like much else of the internet, decentralised, and free from undue influence.
+
+A more citizen driven approach, or even base level education as to critical thinking or how individuals can be influenced, strike me as more meaningful than the creation of a centralised body.
+
+**Response - Fake news in the Philippines**
+
+Hi XXX, thanks for sharing about this important topic and particularly your insight into fake news in the Philippines. I agree, it seems difficult to deal with fake news when its coming from government institutions such as the President which should be paragons of truth in themselves.
+
+In Australia, we just had a federal election in May; and indeed, it was plagued by accusations of fake news from both sides. Our Electoral Commission prior to the election [created frameworks with Facebook and Twitter](https://www.abc.net.au/news/2019-02-26/facebook-electoral-commission-emails-reveal-political-ad-concern/10834736) under which they would remove patently &#39;fake&#39; news upon reporting by the Commission and whereby the platforms pledged to act quickly on user reports of disinformation. Twitter itself specifically created rules outlining that [all political ads on the platform were required to clearly state which political party had paid for them](https://www.abc.net.au/news/science/2019-02-20/twitter-new-political-advertising-rules-australian-election/10824944).
+
+This was just limited to social media however, and very quickly during the election campaign it became clear that the biggest sources of disinformation were the [traditional print media](https://theconversation.com/a-matter-of-mis-trust-why-this-election-is-posing-problems-for-the-media-116142) and the political leaders themselves (not too dissimilar to the Philippines I imagine!).
+
+The prime example of this during the election was [the claim by the right-wing party that the left-wing party would introduce a &#39;death tax&#39; on inheritance](https://joshfrydenberg.com.au/latest-news/21149/). This wasn&#39;t true, but thanks to boosted Facebook ads and a friendly print media, [the idea quickly took hold](https://www.theguardian.com/australia-news/2019/jun/08/it-felt-like-a-big-tide-how-the-death-tax-lie-infected-australias-election-campaign) and became a major issue in the election (arguably losing the election for the left-wing party). Facebook ultimately didn&#39;t respond fast enough to stem the flow of disinformation – and this has led to many calls following the election for [the Electoral Commission to be granted further powers to compel Facebook to act on disinformation reports](https://www.theguardian.com/australia-news/2019/jun/08/its-not-2007-any-more-new-tools-election-lies-facebook). So, in effect, it wasn&#39;t resolved!
+
+As to how Australia tries to deal with fake news; we&#39;re seeing a big push for education in schools about critical thinking and more philosophical issues. It&#39;s important to remember that fake news is not an internet-exclusive issue, and exists in print, television and even just in the world around us. [Disinformation thrives where there is an audience willing to absorb it](https://newnaratif.com/research/understanding-disinformation/share/rwznaa.rz/3997f461e71220b351e4b56ea1214ff0/), and I believe that fighting fake news lies in educating people to think critically about what information they take in, and how they use it. Even just knowing [basic logical fallacies](https://yourlogicalfallacyis.com/) and being able to identify when they are used goes a long way to ensuring that people are more circumspect of their media sources. This is a long-term solution to the problem, but in Australia, it is one that we are instituting now as an investment in our young people.

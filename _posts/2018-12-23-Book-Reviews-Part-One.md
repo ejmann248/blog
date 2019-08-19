@@ -10,7 +10,7 @@ As a result, here’s the books that I’ve managed to complete reading since Au
 
 ![Prambanan Temple — a great example of Indonesia’s religious diversity](https://i.imgur.com/Jz9K4tf.jpg)
 
-Alright, cards on the table already; I read this one before I came to Indonesia, but I did go through it again when I got here. Found this one as I was looking for a good general overview of Indonesian politics and history and its McDonald’s book ranked high in online lists.
+Alright, cards on the table already; I read this one before I came to Indonesia, but I did go through it again when I got here. Found this one as I was looking for a good general overview of Indonesian politics and history and McDonald’s book ranked high in online lists.
 
 Coming from a background as the former Asia-Pacific editor for Fairfax Media, McDonald presents a view of Indonesia as a state which has gone through unbelievable change and development throughout the 20th Century and is still in a constant state of flux. There’s a great discussion here of power and religious politics which I didn’t really understand until I got to Indonesia and saw the influence of religious organisations and religious thought — particularly with the younger generation.
 
